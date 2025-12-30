@@ -1,4 +1,4 @@
-<h1 align="center">Hi, it's Inside</h1>
+<h1 align="center">Hi, Inside</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
@@ -13,17 +13,11 @@
 <hr>
 
 <div align="center">
-  <a href="https://twitter.com/insidebtw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
   <a href="https://discord.com/users/980068051200397353" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
   <a href="https://www.twitch.tv/insidekun" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  </a>
-  <a href="https://github.com/insidou" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
 </div>
 
