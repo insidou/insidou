@@ -1,13 +1,9 @@
 <h1 align="center">Hi, Inside</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
 </div>
 
 <hr>
