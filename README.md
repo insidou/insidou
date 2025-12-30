@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Inside</h1>
+<h1 align="center">Here is my bio !</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" />
